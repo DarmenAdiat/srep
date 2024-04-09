@@ -1,0 +1,29 @@
+{
+  "name": "pustoy",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@canvasjs/vue-charts": "^1.0.1",
+    "@nuxtjs/auth-next": "^5.0.0-1667386184.dfbbb54",
+    "@nuxtjs/axios": "^5.13.6",
+    "core-js": "^3.25.3",
+    "nuxt": "^2.15.8",
+    "three": "^0.163.0",
+    "vue": "^2.7.10",
+    "vue-server-renderer": "^2.7.10",
+    "vue-simple-progress": "^1.1.1",
+    "vue-spinner": "^1.0.4",
+    "vue-template-compiler": "^2.7.10",
+    "vuetify": "^2.6.10"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.12.3",
+    "file-loader": "^6.2.0"
+  }
+}
